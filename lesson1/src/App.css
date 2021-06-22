@@ -1,0 +1,12 @@
+.border {
+  border: 1px solid red;
+  margin-right: 1rem;
+}
+
+.persons {
+  display: flex;
+}
+
+.brown {
+  color: brown;
+}
